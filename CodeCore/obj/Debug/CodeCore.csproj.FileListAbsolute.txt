@@ -1,0 +1,11 @@
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\bin\Debug\CodeCore.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\bin\Debug\CodeCore.pdb
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\obj\Debug\CodeCore.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\obj\Debug\CodeCore.pdb
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\bin\Debug\MetroFramework.Design.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\bin\Debug\MetroFramework.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\obj\Debug\CodeCore.Info.HuffmanInfo.resources
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\obj\Debug\CodeCore.csproj.GenerateResource.Cache
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\obj\Debug\CodeCore.Info.ShannonInfo.resources
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeCore\obj\Debug\CodeCore.csprojResolveAssemblyReference.cache

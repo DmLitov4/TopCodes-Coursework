@@ -1,0 +1,14 @@
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\CodeInterface.exe.config
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\CodeInterface.exe
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\CodeInterface.pdb
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\obj\Debug\CodeInterface.csprojResolveAssemblyReference.cache
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\obj\Debug\CodeInterface.Properties.Resources.resources
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\obj\Debug\CodeInterface.csproj.GenerateResource.Cache
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\obj\Debug\CodeInterface.exe
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\obj\Debug\CodeInterface.pdb
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\obj\Debug\CodeInterface.MainForm.resources
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\CodeCore.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\CodeCore.pdb
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\MetroFramework.Design.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\MetroFramework.dll
+C:\Users\DmLitov4\Documents\Паттерны проектирования\CodeInterface\CodeInterface\bin\Debug\MetroFramework.Fonts.dll
